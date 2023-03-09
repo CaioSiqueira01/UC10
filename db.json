@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "email": "david@gmail.com",
+      "password": "SenhaSuperForte",
+      "nome": "David",
+      "id": 1
+    },
+    {
+      "email": "camaradagit@gmail.com",
+      "password": "SenhaSuperForte123",
+      "nome": "Camarada",
+      "id": 2
+    }
+  ],
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
+    },
+    {
+      "id": 4,
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
+    },
+    {
+      "id": 5,
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
+    },
+    {
+      "id": 6,
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
+    },
+    {
+      "id": 7,
+      "imagem": "assets/img/cardnew.png",
+      "titulo": "Black Firday derruba o preco do Disco de Freio",
+      "descricao": "Black Firday derruba o preco do Disco de Freio"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+
+<div id="espaco-noticias" class="content-new">
+    <div *ngFor="let noticia of listaNoticias" class="cardnew">
+        <img [src]=noticia.imagem alt="Foto da logo do Senai SP">
+        <h3>{{ noticia.titulo }}</h3>
+        <p>{{ noticia.descricao}}</p>
+    </div>
+</div>
